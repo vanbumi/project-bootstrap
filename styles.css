@@ -31,4 +31,9 @@ color: green
 #logox {
 	margin: 0 10px 0 0;
 } 
+
+.footer {
+	background: #888;
+	height: 60px;
+}
 	
